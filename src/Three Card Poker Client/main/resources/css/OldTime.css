@@ -1,0 +1,74 @@
+/* Old Time CSS */
+
+.root {
+    -fx-background-color: #f5f5dc;
+}
+
+Label {
+    -fx-font-size: 16px;
+    -fx-font-family: "Times New Roman", serif;
+    -fx-text-fill: #333333;
+}
+
+Button {
+    -fx-background-color: #d3d3d3;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Georgia", serif;
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 2px;
+}
+
+#playerOneInfoBox,
+#playerTwoInfoBox{
+    -fx-background-color: #d3d3d3;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Georgia", serif;
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 2px;
+}
+
+
+#gameBoard{
+    -fx-border-color: #8b4513;
+    -fx-border-width: 5px;
+}
+
+#betsAndBankAccount1,
+#betsAndBankAccount2{
+    -fx-background-color: #d3d3d3;
+    -fx-text-fill: #000000;
+    /*-fx-font-family: "Georgia", serif;*/
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 2px;
+}
+
+#earningsAndPairWonBox1,
+#earningsAndPairWonBox2{
+    -fx-text-fill: #000000;
+    /*-fx-font-family: "Georgia", serif;*/
+    -fx-background-color: #d3d3d3;
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    /*-fx-border-width: 2px;*/
+}
+
+#cardsAndWager1,
+#cardsAndWager2{
+    -fx-text-fill: #000000;
+    /*-fx-font-family: "Georgia", serif;*/
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 2px;
+}
+
+#Deckvbox{
+    -fx-text-fill: #000000;
+    /*-fx-font-family: "Georgia", serif;*/
+    -fx-font-size: 14px;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 3px;
+    -fx-background-color: #d3d3d3;
+}
